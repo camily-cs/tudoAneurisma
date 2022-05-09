@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@200;400&family=Montserrat&family=Open+Sans&family=Roboto+Slab&family=Roboto:wght@400;500;700&family=Titillium+Web:wght@300;400&display=swap');
+
+.navegacao{
+    height: 100px;
+    background-color: #33ffba;
+}
+
+#logo{
+    height: 90px;
+    width: 100px;
+}
+
+/* #logoMarca{
+    margin-left: 10px;
+    color: black;
+} */
+
+.menu{
+    margin-left: 23%; 
+}
+
+a{
+    font-family: 'Big Shoulders Display', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+}
+
+a:hover{
+    color: white;
+}
+
+.formatacaoTexto{
+    color: #00c482;
+}
+
+#img1{
+    width: 600px;
+    height: 500px;
+}
+
+#imgPrevencao{
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+
+#imgTratamento{
+    width: 400px;
+    margin-top: 130px; 
+    margin-left: 30px;
+}
+
+#imgCarrousel1{
+    width: 50%;
+    height: 100%;
+}
+
+#integrantes{
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.integrante{
+    padding: 1px;
+    margin-left: 30px;
+}
+
+#dev{
+    text-align: center;
+    font-weight: bold;
+}
